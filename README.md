@@ -20,6 +20,21 @@
 </div>
 <div align="center">
       <h3>
+        Fast React Pizza
+        <a
+          href="https://github.com/GiorgiBebia/Fast_React_Pizza"
+          target="blank"
+          >[Code]</a
+        >
+        <a
+          href="https://giorgibebia.github.io/Fast_React_Pizza/"
+          target="_blank"
+          >[Website]</a
+        >
+      </h3>
+</div>
+<div align="center">
+      <h3>
         The React Redux Bank
         <a
           href="https://github.com/GiorgiBebia/The_React_Redux_Bank"
