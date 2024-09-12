@@ -3,22 +3,8 @@
 
 <h3 align="center">My React Projects:</h3>
 
+
 <div align="center">
-      <h3>
-        Exclusive E-Commerce
-        <a
-          href="https://github.com/GiorgiBebia/Exclusive_E-Commerce"
-          target="_blank"
-          >[Code]</a
-        >
-        <a
-          href="https://giorgibebia.github.io/Exclusive_E-Commerce/"
-          target="_blank"
-          >[Website]</a
-        >
-      </h3>
-    </div>
-    <div align="center">
       <h3>
         The React Redux Bank
         <a
@@ -32,8 +18,8 @@
           >[Website]</a
         >
       </h3>
-    </div>
-    <div align="center">
+</div>
+<div align="center">
       <h3>
         Currenct Converter
         <a
@@ -47,8 +33,8 @@
           >[Website]</a
         >
       </h3>
-    </div>
-    <div align="center">
+</div>
+<div align="center">
       <h3>
         Bank Account Transactions
         <a
@@ -62,8 +48,8 @@
           >[Website]</a
         >
       </h3>
-    </div>
-    <div align="center">
+</div>
+<div align="center">
       <h3>
         The React Quiz
         <a href="https://github.com/GiorgiBebia/The_React_Quiz" target="_blank"
@@ -73,8 +59,8 @@
           >[Website]</a
         >
       </h3>
-    </div>
-    <div align="center">
+</div>
+<div align="center">
       <h3>
         usePopcorn
         <a href="https://github.com/GiorgiBebia/usePopcorn" target="_blank"
@@ -84,8 +70,8 @@
           >[Website]</a
         >
       </h3>
-    </div>
-    <div align="center">
+</div>
+<div align="center">
       <h3>
         Eat-N-Split
         <a href="https://github.com/GiorgiBebia/Eat-N-Split" target="_blank"
@@ -95,8 +81,8 @@
           >[Website]</a
         >
       </h3>
-    </div>
-    <div align="center">
+</div>
+<div align="center">
       <h3>
         Tip Calculator
         <a href="https://github.com/GiorgiBebia/Tip_Calculator" target="_blank"
@@ -106,8 +92,8 @@
           >[Website]</a
         >
       </h3>
-    </div>
-    <div align="center">
+</div>
+<div align="center">
       <h3>
         Accordion
         <a href="https://github.com/GiorgiBebia/Accordion" target="_blank"
@@ -117,8 +103,8 @@
           >[Website]</a
         >
       </h3>
-    </div>
-    <div align="center">
+</div>
+<div align="center">
       <h3>
         Far Away
         <a href="https://github.com/GiorgiBebia/Far_Away" target="_blank"
@@ -128,8 +114,8 @@
           >[Website]</a
         >
       </h3>
-    </div>
-    <div align="center">
+</div>
+<div align="center">
       <h3>
         Fleshcards
         <a href="https://github.com/GiorgiBebia/Flashcards" target="_blank"
@@ -139,8 +125,8 @@
           >[Website]</a
         >
       </h3>
-    </div>
-    <div align="center">
+</div>
+<div align="center">
       <h3>
         Steps
         <a href="https://github.com/GiorgiBebia/Steps" target="_blank"
@@ -150,8 +136,8 @@
           >[Website]</a
         >
       </h3>
-    </div>
-    <div align="center">
+</div>
+<div align="center">
       <h3>
         Data Counter
         <a href="https://github.com/GiorgiBebia/Data_Counter" target="_blank"
@@ -161,7 +147,7 @@
           >[Website]</a
         >
       </h3>
-    </div>
+</div>
 
 <h3 align="center">Connect with me:</h3>
     <p align="center">
