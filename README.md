@@ -9,7 +9,7 @@
         The React Redux Bank
         <a
           href="https://github.com/GiorgiBebia/The_React_Redux_Bank"
-          target="_blank"
+          target="blank"
           >[Code]</a
         >
         <a
