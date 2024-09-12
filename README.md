@@ -3,7 +3,21 @@
 
 <h3 align="center">My React Projects:</h3>
 
-
+<div align="center">
+      <h3>
+        Exclusive E-Commerce
+        <a
+          href="https://github.com/GiorgiBebia/Exclusive_E-Commerce"
+          target="blank"
+          >[Code]</a
+        >
+        <a
+          href="https://giorgibebia.github.io/Exclusive_E-Commerce/"
+          target="_blank"
+          >[Website]</a
+        >
+      </h3>
+</div>
 <div align="center">
       <h3>
         The React Redux Bank
