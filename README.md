@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Giorgi Bebia</h1>
     <h3 align="center">Junior React Developer from Georgia</h3>
 
-    <h3 align="center">My React Projects:</h3>
+<h3 align="center">My React Projects:</h3>
 
-    <div align="center">
+<div align="center">
       <h3>
         Exclusive E-Commerce
         <a
@@ -163,7 +163,7 @@
       </h3>
     </div>
 
-    <h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
     <p align="center">
       <a href="https://fb.com/bebia.giorgi" target="blank"
         ><img
@@ -183,7 +183,7 @@
       /></a>
     </p>
 
-    <h3 align="center">Languages and Tools:</h3>
+ <h3 align="center">Languages and Tools:</h3>
     <p align="center">
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img
@@ -255,7 +255,7 @@
       </a>
     </p>
 
-    <p align="center">
+<p align="center">
       <img
         align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=giorgibebia&show_icons=true&locale=en&layout=compact"
