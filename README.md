@@ -35,6 +35,21 @@
 </div>
 <div align="center">
       <h3>
+        Blog Preview Card
+        <a
+          href="https://github.com/GiorgiBebia/Blog_Preview_Card_Frontend_Mentor"
+          target="blank"
+          >[Code]</a
+        >
+        <a
+          href="https://giorgibebia.github.io/Blog_Preview_Card_Frontend_Mentor/"
+          target="_blank"
+          >[Website]</a
+        >
+      </h3>
+</div>
+<div align="center">
+      <h3>
         Fast React Pizza
         <a
           href="https://github.com/GiorgiBebia/Fast_React_Pizza"
