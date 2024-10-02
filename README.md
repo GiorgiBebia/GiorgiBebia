@@ -5,6 +5,21 @@
 
 <div align="center">
       <h3>
+        Space Tourism
+        <a
+          href="https://github.com/GiorgiBebia/Space_Tourism_Frontend_Mentor"
+          target="blank"
+          >[Code]</a
+        >
+        <a
+          href="https://giorgibebia.github.io/Space_Tourism_Frontend_Mentor/"
+          target="_blank"
+          >[Website]</a
+        >
+      </h3>
+</div>
+<div align="center">
+      <h3>
         AudioPhile E-Commerce
         <a
           href="https://github.com/GiorgiBebia/AudioPhile_E-Commerce"
