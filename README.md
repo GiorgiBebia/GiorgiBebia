@@ -50,21 +50,6 @@
 </div>
 <div align="center">
       <h3>
-        Blog Preview Card
-        <a
-          href="https://github.com/GiorgiBebia/Blog_Preview_Card_Frontend_Mentor"
-          target="blank"
-          >[Code]</a
-        >
-        <a
-          href="https://giorgibebia.github.io/Blog_Preview_Card_Frontend_Mentor/"
-          target="_blank"
-          >[Website]</a
-        >
-      </h3>
-</div>
-<div align="center">
-      <h3>
         Fast React Pizza
         <a
           href="https://github.com/GiorgiBebia/Fast_React_Pizza"
@@ -73,6 +58,36 @@
         >
         <a
           href="https://giorgibebia.github.io/Fast_React_Pizza/"
+          target="_blank"
+          >[Website]</a
+        >
+      </h3>
+</div>
+<div align="center">
+      <h3>
+        Advice Generator App
+        <a
+          href="https://github.com/GiorgiBebia/Advice_Generator_App"
+          target="blank"
+          >[Code]</a
+        >
+        <a
+          href="https://giorgibebia.github.io/Advice_Generator_App/"
+          target="_blank"
+          >[Website]</a
+        >
+      </h3>
+</div>
+<div align="center">
+      <h3>
+        Blog Preview Card
+        <a
+          href="https://github.com/GiorgiBebia/Blog_Preview_Card_Frontend_Mentor"
+          target="blank"
+          >[Code]</a
+        >
+        <a
+          href="https://giorgibebia.github.io/Blog_Preview_Card_Frontend_Mentor/"
           target="_blank"
           >[Website]</a
         >
