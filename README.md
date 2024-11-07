@@ -80,6 +80,36 @@
 </div>
 <div align="center">
       <h3>
+        Time Tracking Dashboard
+        <a
+          href="https://github.com/GiorgiBebia/Time_Tracking_Dashboard"
+          target="blank"
+          >[Code]</a
+        >
+        <a
+          href="https://giorgibebia.github.io/Time_Tracking_Dashboard/"
+          target="_blank"
+          >[Website]</a
+        >
+      </h3>
+</div>
+<div align="center">
+      <h3>
+        Interactive Rating Component
+        <a
+          href="https://github.com/GiorgiBebia/Interactive_Rating_Component"
+          target="blank"
+          >[Code]</a
+        >
+        <a
+          href="https://giorgibebia.github.io/Interactive_Rating_Component/"
+          target="_blank"
+          >[Website]</a
+        >
+      </h3>
+</div>
+<div align="center">
+      <h3>
         Advice Generator App
         <a
           href="https://github.com/GiorgiBebia/Advice_Generator_App"
