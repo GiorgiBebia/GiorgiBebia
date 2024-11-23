@@ -5,6 +5,21 @@
 
 <div align="center">
       <h3>
+        Github User Search App
+        <a
+          href="https://github.com/GiorgiBebia/Github_User_Search_App"
+          target="blank"
+          >[Code]</a
+        >
+        <a
+          href="https://giorgibebia.github.io/Github_User_Search_App/"
+          target="_blank"
+          >[Website]</a
+        >
+      </h3>
+</div>
+<div align="center">
+      <h3>
         Rest Countries
         <a
           href="https://github.com/GiorgiBebia/Rest_Countries"
@@ -73,6 +88,21 @@
         >
         <a
           href="https://giorgibebia.github.io/Fast_React_Pizza/"
+          target="_blank"
+          >[Website]</a
+        >
+      </h3>
+</div>
+<div align="center">
+      <h3>
+        E-Commerce Product Page
+        <a
+          href="https://github.com/GiorgiBebia/E-Commerce_Product_Page"
+          target="blank"
+          >[Code]</a
+        >
+        <a
+          href="https://giorgibebia.github.io/E-Commerce_Product_Page/"
           target="_blank"
           >[Website]</a
         >
