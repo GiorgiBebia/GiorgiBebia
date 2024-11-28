@@ -20,21 +20,6 @@
 </div>
 <div align="center">
       <h3>
-        Rest Countries
-        <a
-          href="https://github.com/GiorgiBebia/Rest_Countries"
-          target="blank"
-          >[Code]</a
-        >
-        <a
-          href="https://giorgibebia.github.io/Rest_Countries/"
-          target="_blank"
-          >[Website]</a
-        >
-      </h3>
-</div>
-<div align="center">
-      <h3>
         Space Tourism
         <a
           href="https://github.com/GiorgiBebia/Space_Tourism_Frontend_Mentor"
