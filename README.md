@@ -16,6 +16,7 @@
           target="_blank"
           >[Website]</a
         >
+	<span>(Vite, TypeScript, CSS Module, Responsive: Tablet/Mobile)</span>
       </h3>
 </div>
 <div align="center">
@@ -31,6 +32,7 @@
           target="_blank"
           >[Website]</a
         >
+	<span>(Vite, Tailwind, Responsive: Tablet/Mobile, React Router)</span>
       </h3>
 </div>
 <div align="center">
@@ -46,6 +48,7 @@
           target="_blank"
           >[Website]</a
         >
+	<span>(Vite, Tailwind, Responsive: Tablet/Mobile, React Router, Redux)</span>
       </h3>
 </div>
 <div align="center">
@@ -61,6 +64,7 @@
           target="_blank"
           >[Website]</a
         >
+	<span>(Tailwind, React Router, Redux)</span>
       </h3>
 </div>
 <div align="center">
@@ -76,6 +80,7 @@
           target="_blank"
           >[Website]</a
         >
+	<span>(Vite, Tailwind, Redux)</span>
       </h3>
 </div>
 <div align="center">
@@ -91,6 +96,7 @@
           target="_blank"
           >[Website]</a
         >
+	<span>(Vite, Tailwind, Responsive: Mobile, Redux)</span>
       </h3>
 </div>
 <div align="center">
@@ -106,6 +112,7 @@
           target="_blank"
           >[Website]</a
         >
+	<span>(Vite, Tailwind, Responsive: Mobile)</span>
       </h3>
 </div>
 <div align="center">
@@ -121,6 +128,7 @@
           target="_blank"
           >[Website]</a
         >
+	<span>(Vite, Tailwind, Resonsive: Mobile)</span>
       </h3>
 </div>
 <div align="center">
@@ -136,6 +144,7 @@
           target="_blank"
           >[Website]</a
         >
+	<span>(Vite, Tailwind, Responsive: Mobile)</span>
       </h3>
 </div>
 <div align="center">
@@ -151,6 +160,7 @@
           target="_blank"
           >[Website]</a
         >
+	<span>(Tailwind, Responsive: Mobile)</span>
       </h3>
 </div>
 <div align="center">
@@ -166,6 +176,7 @@
           target="_blank"
           >[Website]</a
         >
+	<span>(Old & New Redux)</span>
       </h3>
 </div>
 <div align="center">
@@ -181,6 +192,7 @@
           target="_blank"
           >[Website]</a
         >
+	<span>(Tailwind, Axios)</span>
       </h3>
 </div>
 <div align="center">
@@ -240,6 +252,7 @@
         <a href="https://giorgibebia.github.io/Tip_Calculator/" target="_blank"
           >[Website]</a
         >
+	<span>(Bootstrap)</span>
       </h3>
 </div>
 <div align="center">
